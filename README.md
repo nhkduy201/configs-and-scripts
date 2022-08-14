@@ -1,1 +1,2 @@
-This repo is to save my scripts :D
+This repo is to save my scripts 
+Feel free to use it if you want :D
